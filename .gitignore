@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite-temp/
+*.log
+*.tmp
+.env
+
+frontend/node_modules/
+frontend/dist/
+
+backend/dw0rdwk-api
+backend/dw0rdwk-api.exe

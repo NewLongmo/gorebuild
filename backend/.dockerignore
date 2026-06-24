@@ -1,0 +1,7 @@
+.git
+.env
+.cache
+tmp
+*.log
+dw0rdwk-api
+dw0rdwk-api.exe
